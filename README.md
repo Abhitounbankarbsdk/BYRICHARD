@@ -15,7 +15,7 @@
 
 **Eunha Mirror Bot** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
 
-# Features supported:
+# Features   supported:
 <details>
     <summary><b>Click Here For More Details</b></summary>
 
